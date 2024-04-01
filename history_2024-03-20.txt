@@ -1,0 +1,3 @@
+Question: total number of rooms in boys hostel 
+Answer: 70
+
